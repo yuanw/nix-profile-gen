@@ -155,6 +155,7 @@
     ./managed-applications/MunkiReport.nix
     ./managed-applications/SupportCompanion.nix
     ./managed-applications/com-1password-1password.nix
+    ./managed-applications/com-DigiDNA-iMazingProfileEditorMac.nix
     ./managed-applications/com-ThomsonResearchSoft-EndNote.nix
     ./managed-applications/com-agilebits-onepassword7.nix
     ./managed-applications/com-alectrona-patch-agent.nix
@@ -232,6 +233,7 @@
     ./managed-applications/com-northpolesec-santa.nix
     ./managed-applications/com-okta-mobile-auth-service-extension.nix
     ./managed-applications/com-okta-mobile.nix
+    ./managed-applications/com-openai-codex.nix
     ./managed-applications/com-papercut-printdeploy-client.nix
     ./managed-applications/com-parallels-desktop-managedprefs.nix
     ./managed-applications/com-pratikkumar-airserver-mac.nix
@@ -245,6 +247,7 @@
     ./managed-applications/com-trelica-macapp.nix
     ./managed-applications/com-trusourcelabs-NoMAD.nix
     ./managed-applications/com-twingate-macos.nix
+    ./managed-applications/com-twocanoes-dfu-blaster-pro.nix
     ./managed-applications/com-twocanoes-xcreds.nix
     ./managed-applications/com-unity3d-UnityEditor5-x.nix
     ./managed-applications/com-vpntracker-365mac-config.nix
@@ -257,6 +260,7 @@
     ./managed-applications/edu-ncsu-confboard.nix
     ./managed-applications/edu-psu-macoslaps.nix
     ./managed-applications/fr-handbrake-HandBrake.nix
+    ./managed-applications/fr-jeremyb-sumb.nix
     ./managed-applications/io-macadmins-Outset.nix
     ./managed-applications/io-tailscale-ipn-macos.nix
     ./managed-applications/io-tailscale-ipn-macsys.nix
